@@ -1,0 +1,11 @@
+List of USB ID's
+
+NOTE: This is just a github mirror.
+
+Maintained by Stephen J. Gowdy <linux.usb.ids@gmail.com>
+If you have any new entries, please submit them via
+    http://www.linux-usb.org/usb-ids.html
+or send entries as patches (diff -u old new) in the
+body of your email (a bot will attempt to deal with it).
+The latest version can be obtained from
+    http://www.linux-usb.org/usb.ids
