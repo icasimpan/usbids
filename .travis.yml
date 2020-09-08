@@ -1,0 +1,5 @@
+dist: bionic
+language: minimal
+
+script:
+  - ./watchdog.sh
